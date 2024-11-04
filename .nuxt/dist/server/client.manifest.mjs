@@ -68,7 +68,9 @@ export default {
       "node_modules/nuxt/dist/app/entry.js",
       "_Cb0rwTNy.js"
     ],
-    "css": []
+    "css": [
+      "error-404.CoZKRZXM.css"
+    ]
   },
   "error-404.CoZKRZXM.css": {
     "file": "error-404.CoZKRZXM.css",
@@ -89,7 +91,9 @@ export default {
       "node_modules/nuxt/dist/app/entry.js",
       "_Cb0rwTNy.js"
     ],
-    "css": []
+    "css": [
+      "error-500.D6506J9O.css"
+    ]
   },
   "error-500.D6506J9O.css": {
     "file": "error-500.D6506J9O.css",
@@ -113,8 +117,7 @@ export default {
     ],
     "css": [
       "entry.Bxr7UMgm.css"
-    ],
-    "_globalCSS": true
+    ]
   },
   "entry.Bxr7UMgm.css": {
     "file": "entry.Bxr7UMgm.css",
