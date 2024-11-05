@@ -27,10 +27,7 @@ jobs:
 
       # Step 4: Build the Nuxt application
       - name: Build the project
-        run: npm run generate
-
-      - name: NPX serve
-        run: npx serve .output/public
+        run: npm run build
 
       # Step 5: Deploy to Firebase Hosting
       - name: Deploy to Firebase Hosting
